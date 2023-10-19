@@ -485,6 +485,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Custom\loginStyles.css" />
     <Content Include="Content\nuevo\style.css" />
     <Content Include="Content\nuevo\vendor\aos\aos.css" />
     <Content Include="Content\nuevo\vendor\aos\aos.js" />
